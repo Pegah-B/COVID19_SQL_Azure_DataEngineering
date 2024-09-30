@@ -25,4 +25,4 @@ Queries were run in the cloud using Azure Data Studio. The SQL scripts can be fo
 
 ### 3. Dashboarding
 
-The Power BI integrated within Azure is used to visualize the data by connecting directly to the Azure SQL server. Additionally, the dashboard is created locally using Power BI Desktop running on VMware on my Mac. 
+An interactive dashboard, Dashboard.pbix, was developed to visualize key insights from the data. In the cloud setup, Power BI integrated within Azure was used to connect directly to the Azure SQL server. Additionally, a local version of the dashboard was developed using Power BI Desktop, running on VMware on my Mac. 
