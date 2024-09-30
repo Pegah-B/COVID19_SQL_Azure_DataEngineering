@@ -1,6 +1,6 @@
 # COVID-19 Data Exploration and Dashboarding Project
 
-This project focuses on the exploration and visualization of COVID-19 data using SQL and Power BI. 
+This project focuses on the exploration and visualization of COVID-19 data using SQL and Power BI, conducted in both cloud and local environments. An ETL process was implemented, including extracting data from HTTP links and storing it in Azure Data Lake Storage. A SQL server was created in the cloud, utilizing Azure SQL Database for structured querying, and insights were visualized through an interactive dashboard created in Power BI.
 
 ## Dataset
 Data is sourced from [Our World in Data (OWID) GitHub repository](https://github.com/owid/covid-19-data/tree/master/public/data). 
